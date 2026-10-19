@@ -1,0 +1,6 @@
+{
+  "name": "Graffiti Labs Tisout",
+  "description": "Estúdio interativo de grafite 3D com paleta vermelho, azul e verde, diagrama em camadas explodidas, simulador de spray e passo a passo completo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
